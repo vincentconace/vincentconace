@@ -5,6 +5,7 @@
   </samp>
   <br> <br>
   <a href="https://www.linkedin.com/in/vincent-conace-11b93b1a7/" target="_blank"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/></a>
+  <a href="https://vincentconace.github.io/my-portfolio/" target="_blank"><img src=https://img.shields.io/badge/-Portfolio-blue?style=for-the-badge&logo=appveyor/></a>
 </p>
 <hr>
 
